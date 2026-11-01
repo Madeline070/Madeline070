@@ -1,24 +1,42 @@
- ## ¡Hola! 👋 Soy Madeline
+# ¡Hola! Soy Madeline 
 
-🎓 Estudiante de Ingeniería Aeronáutica.
+## Científica de Datos | Python | SQL | Machine Learning | Power BI
 
-💻 Actualmente estoy aprendiendo Python y ciencia de datos.
+Soy estudiante de Ciencia de Datos en EBAC, con formación en Ingeniería Aeronáutica e interés en el análisis de datos, la tecnología y la resolución de problemas mediante herramientas digitales.
 
-Sobre mí
+Durante mi formación he desarrollado proyectos enfocados en el análisis, procesamiento y visualización de datos, así como en la construcción de modelos estadísticos y predictivos.
 
-Me interesa la tecnología y cómo puede ayudar a resolver problemas y analizar información. Estoy comenzando a desarrollar mis habilidades y busco aprender mediante la práctica y la creación de proyectos.
+###  Herramientas y tecnologías
 
-Actualmente estoy aprendiendo
+- **Python:** análisis y procesamiento de datos.
+- **SQL:** consultas y gestión de bases de datos.
+- **Pandas y NumPy:** manipulación de datos.
+- **Matplotlib:** visualización de información.
+- **Scikit-learn:** modelos de Machine Learning.
+- **Power BI:** análisis y creación de dashboards.
+- **Jupyter Notebook:** desarrollo y documentación de proyectos.
 
-- Fundamentos de Python.
-- Conceptos básicos de ciencia de datos.
-- Análisis y organización de datos.
-- Uso de GitHub para compartir mis proyectos.
+### Proyectos de Ciencia de Datos
 
-Mi objetivo
+En este portafolio encontrarás proyectos desarrollados durante mi formación en EBAC, relacionados con:
 
-Seguir aprendiendo, adquirir experiencia práctica y prepararme para futuras oportunidades laborales.
+- Análisis exploratorio de datos.
+- Análisis de recursos humanos.
+- Bases de datos y consultas SQL.
+- Modelos de regresión lineal.
+- Análisis y visualización de ventas.
+- Modelos predictivos y pronósticos.
+- Visualización de datos con Power BI.
+
+###  Formación académica
+
+- Ciencia de Datos – EBAC.
+- Formación en Ingeniería Aeronáutica.
+
+###  Objetivo profesional
+
+Continuar desarrollando mis habilidades en ciencia de datos, aplicando herramientas de análisis, programación y visualización para transformar datos en información útil que facilite la toma de decisiones.
 
 ---
 
-Este perfil irá creciendo junto con mis conocimientos y proyectos.
+¡Gracias por visitar mi portafolio!
