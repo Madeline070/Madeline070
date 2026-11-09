@@ -2,9 +2,13 @@
   <img src="./Portafolio%20de%20ciencia%20de%20datos%20futurista.png" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10243D,100:AAB7C4&height=3&section=header" width="100%">
+</p>
 
 
 
+## ◈ SOBRE MÍ
 # ¡Hola! Soy Madeline 
 
 ## Científica de Datos | Python | SQL | Machine Learning | Power BI
