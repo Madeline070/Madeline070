@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./Portafolio%20de%20ciencia%20de%20datos%20futurista.png" width="100%">
+</p>
+
+
+
+
 # ¡Hola! Soy Madeline 
 
 ## Científica de Datos | Python | SQL | Machine Learning | Power BI
