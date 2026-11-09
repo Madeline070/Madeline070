@@ -7,8 +7,6 @@
 </p>
 
 
-
-## ◈ SOBRE MÍ
 # ¡Hola! Soy Madeline 
 
 ## Científica de Datos | Python | SQL | Machine Learning | Power BI
